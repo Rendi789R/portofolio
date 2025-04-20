@@ -1,0 +1,24 @@
+@keyframes fade-in {
+    from {
+        opacity: 0;
+        transform: scale(0.95);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.animate-fade-in {
+    animation: fade-in 1s ease-in-out;
+}
+
+/* Custom text shadow */
+.text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Shadow hitam lembut */
+}
+
+#slideshow img {
+    flex-shrink: 0; /* Mencegah gambar mengecil */
+    transition: transform 1s ease-in-out; /* Animasi transisi */
+}
