@@ -13,8 +13,8 @@ Ini project website pertama ku, aku membuat sebuah website portofolio.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Rendi789R/portofolio.git
+cd portofolio
 ```
 
 
